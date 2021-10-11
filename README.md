@@ -1,4 +1,5 @@
 # backend-assignment-post-comments
+a postgres database should be running on localhost with credentials in config.json / change them accordingly. 
 
 to create tables - 
   npm run migrate
